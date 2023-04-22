@@ -12,3 +12,8 @@ Fitts’s Law
 Touch targets should be easily accessible and clear.
 
 When computers were still relatively new, and people once dreamed of going to space, Paul M. You could find a lot of theories written over the past 66 years, but the bottom line
+
+Zeigarnic Effect
+
+This happens with all of us, when we have some important task to do, and when we forget to do it, we tend to feel bad about it; this is the zeigarnik effect.
+It states that we remember uncompleted and uninterrupted tasks more than the completed task.
