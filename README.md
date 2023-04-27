@@ -37,3 +37,11 @@ Law of Prägnanz
 Also called “Law of simplicity”, which states that users perceive complex forms in the simplest way because it is the interpretation that requires less mental effort.
 
 Basically, it describes that it is easier to understand and assimilate a square than an octagon. And it requires less mental intensity to obtain an appreciation of what that is and what it is for. A practical example of this would be the following.
+
+Serial Position Effect
+
+According to this law, among the elements of a series, users will always remember better the first one and the last one.
+
+And that is the reason why we see that in the application navigation bar, the most important actions are placed on the left or on the right, introducing elements such as start or profile taking into account the serial position.
+
+A practical example of this law would be in Instagram.
