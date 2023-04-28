@@ -45,3 +45,11 @@ According to this law, among the elements of a series, users will always remembe
 And that is the reason why we see that in the application navigation bar, the most important actions are placed on the left or on the right, introducing elements such as start or profile taking into account the serial position.
 
 A practical example of this law would be in Instagram.
+
+Law of Proximity
+
+Objects that are close tend to join, and in the user experience, they are understood as members of the same group.
+
+The principle holds that if you are handling a group of data, all the data that we understand that correspond to the same group should be together and if we start talking about different data there should be a space (air) between them. Our head will do the rest and differentiate them.
+
+An example of this would be…
