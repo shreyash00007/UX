@@ -53,3 +53,11 @@ Objects that are close tend to join, and in the user experience, they are unders
 The principle holds that if you are handling a group of data, all the data that we understand that correspond to the same group should be together and if we start talking about different data there should be a space (air) between them. Our head will do the rest and differentiate them.
 
 An example of this would be…
+
+Tesler’s Law
+
+Also known as ‘conservation of complexity’, by Larry Tesler. It establishes that for any system there is a certain complexity that can not be reduced to the maximum.
+
+Every UX designer would like to simplify processes and make them faster, but we have to take into account that there are things that cannot be simplified to be more basic. (Unless the format changes).
+
+We would find an example in any agency to buy tickets.
