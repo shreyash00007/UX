@@ -61,3 +61,13 @@ Also known as ‘conservation of complexity’, by Larry Tesler. It establishes 
 Every UX designer would like to simplify processes and make them faster, but we have to take into account that there are things that cannot be simplified to be more basic. (Unless the format changes).
 
 We would find an example in any agency to buy tickets.
+
+Law of Closure
+
+Our brains tend to fill in the information and avoid contradictions as much as possible.
+
+Our eyes are naturally drawn to simpler ways to see things. When viewing a complex arrangement of visual elements, we tend to look for a single, recognizable pattern or shape.
+
+The principle of closure is often used to design logos and icons that are both memorable and recognizable. This state that you work in your memory and convert the complex object into easy ones.
+
+
