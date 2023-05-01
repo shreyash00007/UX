@@ -71,3 +71,8 @@ Our eyes are naturally drawn to simpler ways to see things. When viewing a compl
 The principle of closure is often used to design logos and icons that are both memorable and recognizable. This state that you work in your memory and convert the complex object into easy ones.
 
 
+Law of Focal Point
+
+You’d be surprised at how much information can be conveyed visually in just a single second.
+
+The focal point principle states that whatever stands out visually will capture and retain the attention of viewers first. This principle is common in graphic design, where elements like contrast, color, and visual emphasis are used to draw attention to an element. The element that is highlighted than the surrounding holds the user’s attention first, like the below image you noticed the duck first.
