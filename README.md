@@ -76,3 +76,9 @@ Law of Focal Point
 You’d be surprised at how much information can be conveyed visually in just a single second.
 
 The focal point principle states that whatever stands out visually will capture and retain the attention of viewers first. This principle is common in graphic design, where elements like contrast, color, and visual emphasis are used to draw attention to an element. The element that is highlighted than the surrounding holds the user’s attention first, like the below image you noticed the duck first.
+
+Law of Continuity
+
+Items placed in a certain row or direction are seen as a group
+
+The principle of continuity states that while elements may appear to be indescribably related, line or curve grouping often increases their relation by making them appear to be similar in terms of position and direction.
