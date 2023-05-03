@@ -82,3 +82,14 @@ Law of Continuity
 Items placed in a certain row or direction are seen as a group
 
 The principle of continuity states that while elements may appear to be indescribably related, line or curve grouping often increases their relation by making them appear to be similar in terms of position and direction.
+
+Law of Similarity
+Similar elements of the design tend to look related, even if they are separated
+
+When elements appear to be similar to each other, we tend to group them and give them the same function.
+
+Although those elements look the same and are evenly spaced, we tend to group them by color.
+
+This example showcases how you can use buttons to create a clear and unobstructed user interface.
+
+When elements appear to be similar to each other, we tend to group them and give them the same function.
