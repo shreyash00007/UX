@@ -93,3 +93,9 @@ Although those elements look the same and are evenly spaced, we tend to group th
 This example showcases how you can use buttons to create a clear and unobstructed user interface.
 
 When elements appear to be similar to each other, we tend to group them and give them the same function.
+
+Zeigarnik Effect
+
+Adopt progress measurements in your design because users remember incomplete tasks better than completed tasks
+
+Starting a task creates task-related tension that’s felt when the job is interrupted or incomplete. All the tension from a highly repetitive task makes it difficult to complete the work itself, but that very difficulty and
