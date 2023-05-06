@@ -99,3 +99,9 @@ Zeigarnik Effect
 Adopt progress measurements in your design because users remember incomplete tasks better than completed tasks
 
 Starting a task creates task-related tension that’s felt when the job is interrupted or incomplete. All the tension from a highly repetitive task makes it difficult to complete the work itself, but that very difficulty and
+
+Tesler’s Law
+
+Any system has a complexity that cannot be simplified
+
+Each design has a certain level of complexity to it. You are responsible for reducing complexity in your organization and across the entire supply chain. By removing unnecessary features or tweaking the way your app works, you can help users focus on the actual task at hand instead of figuring out how to navigate the design.
