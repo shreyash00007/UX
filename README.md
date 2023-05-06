@@ -105,3 +105,9 @@ Tesler’s Law
 Any system has a complexity that cannot be simplified
 
 Each design has a certain level of complexity to it. You are responsible for reducing complexity in your organization and across the entire supply chain. By removing unnecessary features or tweaking the way your app works, you can help users focus on the actual task at hand instead of figuring out how to navigate the design.
+
+Aesthetic Usability Effect
+
+The Aesthetic Usability Effect explains that people often perceive visually appealing design as more intuitive and usable than those that are considered less pleasing on the eye, people believe that things that look better, will work better. Majority of the time customers will be more tolerant of minor issues when the design is aesthetically pleasing, this is due to the positive emotional response they feel. This also correlates to the theory of the Attractiveness Bias, which shows we are drawn to beauty. This highlights how imperative a well-polished user interface is, in conjunction with a solid UX.
+
+
