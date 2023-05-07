@@ -111,3 +111,8 @@ Aesthetic Usability Effect
 The Aesthetic Usability Effect explains that people often perceive visually appealing design as more intuitive and usable than those that are considered less pleasing on the eye, people believe that things that look better, will work better. Majority of the time customers will be more tolerant of minor issues when the design is aesthetically pleasing, this is due to the positive emotional response they feel. This also correlates to the theory of the Attractiveness Bias, which shows we are drawn to beauty. This highlights how imperative a well-polished user interface is, in conjunction with a solid UX.
 
 
+Von Restorff Effect
+
+A visually distinctive item is easily remembered when presented along with multiple similar items
+
+The Von Restorff Effect is the tendency to remember the most distinctive elements of a group. It’s called The Isolation Effect, as an object that stands out becomes more memorable to us than other items that look similar.
