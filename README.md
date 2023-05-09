@@ -116,3 +116,5 @@ Von Restorff Effect
 A visually distinctive item is easily remembered when presented along with multiple similar items
 
 The Von Restorff Effect is the tendency to remember the most distinctive elements of a group. It’s called The Isolation Effect, as an object that stands out becomes more memorable to us than other items that look similar.
+
+new law
