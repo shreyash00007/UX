@@ -5,6 +5,7 @@ Its about ux
 2. Doherty Threshold — Keep feedback within or less than 400 milliseconds to increase productivity.
 3. Fitts’s Law — Touch targets should be easily accessible.
 4. Hick’s Law — Choices should be simple and easy to understand.
+5. Jakob’s Law — The user expects a website to work as same as the others.
 
 ‘The time required to rapidly move to a target area is a function of the ratio between the distance to the target and the width of the target”,
 It is based on the work of psychologist Paul Fitts in 1954.
