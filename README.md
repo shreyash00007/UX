@@ -8,7 +8,9 @@ Its about ux
 5. Jakob’s Law — The user expects a website to work as same as the others.
 6. Law of Common Region — Elements are perceived related if they share a common background or region.
 7. Law of Pragnanz — People tend to remember simple figures than complex shapes.
-8. 
+8. Law of Proximity — Elements that are close to each other tend to look grouped.
+
+
 ‘The time required to rapidly move to a target area is a function of the ratio between the distance to the target and the width of the target”,
 It is based on the work of psychologist Paul Fitts in 1954.
 
