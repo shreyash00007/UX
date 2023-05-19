@@ -10,6 +10,7 @@ Its about ux
 7. Law of Pragnanz — People tend to remember simple figures than complex shapes.
 8. Law of Proximity — Elements that are close to each other tend to look grouped.
 9. Law of Uniform Connectedness — Visual connection helps people to see a relation between items.
+10. Miller’s Law — Keep contents between 5 to 9 items at a time.
 
 
 ‘The time required to rapidly move to a target area is a function of the ratio between the distance to the target and the width of the target”,
