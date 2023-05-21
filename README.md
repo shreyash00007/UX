@@ -12,6 +12,7 @@ Its about ux
 9. Law of Uniform Connectedness — Visual connection helps people to see a relation between items.
 10. Miller’s Law — Keep contents between 5 to 9 items at a time.
 11. Occam’s Razor — When given options to solve a problem, go with the one that has the fewest assumptions.
+12. Pareto Principle — 80% of the effect comes from 20% of the causes.
 
 
 ‘The time required to rapidly move to a target area is a function of the ratio between the distance to the target and the width of the target”,
