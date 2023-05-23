@@ -14,6 +14,7 @@ Its about ux
 11. Occam’s Razor — When given options to solve a problem, go with the one that has the fewest assumptions.
 12. Pareto Principle — 80% of the effect comes from 20% of the causes.
 13. Parkinson’s Law — Any work will be prolonged or postponed until all the given time is spent.
+14. Peak-End Rule — People make decisions according to their emotional peak experiences.
 
 
 ‘The time required to rapidly move to a target area is a function of the ratio between the distance to the target and the width of the target”,
