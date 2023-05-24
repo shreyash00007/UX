@@ -15,6 +15,7 @@ Its about ux
 12. Pareto Principle — 80% of the effect comes from 20% of the causes.
 13. Parkinson’s Law — Any work will be prolonged or postponed until all the given time is spent.
 14. Peak-End Rule — People make decisions according to their emotional peak experiences.
+15. Postel’s Law — Empathize users' actions and embrace variable inputs.
 
 
 ‘The time required to rapidly move to a target area is a function of the ratio between the distance to the target and the width of the target”,
