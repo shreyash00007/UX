@@ -16,6 +16,7 @@ Its about ux
 13. Parkinson’s Law — Any work will be prolonged or postponed until all the given time is spent.
 14. Peak-End Rule — People make decisions according to their emotional peak experiences.
 15. Postel’s Law — Empathize users' actions and embrace variable inputs.
+16. Serial Position Effect — People tend to remember the first and last objects of the series.
 
 
 ‘The time required to rapidly move to a target area is a function of the ratio between the distance to the target and the width of the target”,
