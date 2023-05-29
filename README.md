@@ -20,6 +20,7 @@ Its about ux
 17. Tesler’s Law — Any system has a complexity that cannot be simplified.
 18. Von Restorff Effect — Visually distinctive item is easily remembered when presented along with multiple similar items.
 19. Zeignarnik Effect — Adopt progress measurements in your design because users remember incomplete tasks better than completed tasks.
+20. Law of Similarity — Similar elements of design has a tendency to look related, even if they are separated.
 
 
 ‘The time required to rapidly move to a target area is a function of the ratio between the distance to the target and the width of the target”,
