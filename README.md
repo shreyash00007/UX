@@ -22,6 +22,7 @@ Its about ux
 19. Zeignarnik Effect — Adopt progress measurements in your design because users remember incomplete tasks better than completed tasks.
 20. Law of Similarity — Similar elements of design has a tendency to look related, even if they are separated.
 21. Golden Ratio: A mathematical ratio that is visually pleasing and often used in design compositions.
+22. Rule of Thirds: Divide the design space into a grid of nine equal parts to create visually balanced compositions.
 
 
 ‘The time required to rapidly move to a target area is a function of the ratio between the distance to the target and the width of the target”,
