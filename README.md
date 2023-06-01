@@ -23,6 +23,8 @@ Its about ux
 20. Law of Similarity — Similar elements of design has a tendency to look related, even if they are separated.
 21. Golden Ratio: A mathematical ratio that is visually pleasing and often used in design compositions.
 22. Rule of Thirds: Divide the design space into a grid of nine equal parts to create visually balanced compositions.
+23. Feedback Principle: Provide immediate and informative feedback to user actions.
+
 
 
 ‘The time required to rapidly move to a target area is a function of the ratio between the distance to the target and the width of the target”,
