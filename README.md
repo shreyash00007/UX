@@ -24,6 +24,7 @@ Its about ux
 21. Golden Ratio: A mathematical ratio that is visually pleasing and often used in design compositions.
 22. Rule of Thirds: Divide the design space into a grid of nine equal parts to create visually balanced compositions.
 23. Feedback Principle: Provide immediate and informative feedback to user actions.
+24. Law of Dominance: Dominant elements in a design draw the user's attention first.
 
 
 
