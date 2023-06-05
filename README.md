@@ -27,6 +27,7 @@ Its about ux
 24. Law of Dominance: Dominant elements in a design draw the user's attention first.
 25. Progressive Disclosure: Present information in a hierarchical manner to avoid overwhelming users with unnecessary details.
 26. Gestalt Principles: Principles of visual perception that explain how humans group and interpret visual elements.
+27. Affordance Principle: Users should be able to easily determine how to interact with an interface element.
 
 
 
