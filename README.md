@@ -30,6 +30,7 @@ Its about ux
 27. Affordance Principle: Users should be able to easily determine how to interact with an interface element.
 28. Error Prevention Principle: Design should minimize the occurrence and impact of user errors.
 29. Golden Ratio: A mathematical ratio that is visually pleasing and often used in design compositions.
+30. Zeigarnik Effect: People remember incomplete tasks better than completed ones.
 
 
 
