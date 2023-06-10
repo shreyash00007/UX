@@ -32,6 +32,7 @@ Its about ux
 29. Golden Ratio: A mathematical ratio that is visually pleasing and often used in design compositions.
 30. Zeigarnik Effect: People remember incomplete tasks better than completed ones.
 31. Cognitive Load Principle: Reduce mental effort and cognitive load by simplifying tasks and information presentation.
+32. Doherty Threshold: A 400ms response time limit for users to feel that the system is reacting instantaneously.
 
 
 
