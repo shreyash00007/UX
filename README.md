@@ -33,7 +33,6 @@ Its about ux
 30. Zeigarnik Effect: People remember incomplete tasks better than completed ones.
 31. Cognitive Load Principle: Reduce mental effort and cognitive load by simplifying tasks and information presentation.
 32. Doherty Threshold: A 400ms response time limit for users to feel that the system is reacting instantaneously.
-33. Cognitive Load Principle: Reduce mental effort and cognitive load by simplifying tasks and information presentation.
 
 
 
