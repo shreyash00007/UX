@@ -34,6 +34,7 @@ Its about ux
 31. Cognitive Load Principle: Reduce mental effort and cognitive load by simplifying tasks and information presentation.
 32. Doherty Threshold: A 400ms response time limit for users to feel that the system is reacting instantaneously.
 33. Delightful Experiences: Go beyond usability and aim to create delightful experiences that surprise and exceed user expectations.
+34. Cognitive Walkthrough: Simulate users' thought processes to identify potential usability issues and improve the user flow.
 
 
 
