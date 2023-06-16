@@ -36,6 +36,7 @@ Its about ux
 33. Delightful Experiences: Go beyond usability and aim to create delightful experiences that surprise and exceed user expectations.
 34. Cognitive Walkthrough: Simulate users' thought processes to identify potential usability issues and improve the user flow.
 35. Scannability: Make content scannable by using headings, bullet points, and visual cues to help users quickly find the information they need.
+36. Learnability: Design interfaces that are easy to learn and use, minimizing the learning curve for new users.
 
 
 
