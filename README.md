@@ -39,14 +39,14 @@ Its about ux
 36. Learnability: Design interfaces that are easy to learn and use, minimizing the learning curve for new users.
 37. Serial Position Effect: People remember the first and last items in a series more than the middle ones. Use this to highlight important information.
 
+Jakob’s law
 
 Jakob’s law recommends the use of familiar patterns in design, to facilitate a better user experience.
-
 It means that sometimes your urge to create something unique and fancy might hamper the user experience simply because the user is not familiar with it.
 
 Fitts’s Law
-Touch targets should be easily accessible and clear.
 
+Touch targets should be easily accessible and clear.
 When computers were still relatively new, and people once dreamed of going to space, Paul M. You could find a lot of theories written over the past 66 years, but the bottom line
 
 Zeigarnic Effect
@@ -57,11 +57,8 @@ It states that we remember uncompleted and uninterrupted tasks more than the com
 Hick's law
 
 The time taken to arrive at a decision increases with the number of choices. The complexity of choices also affects the time.
-
 For a better UX experience, you should simplify the options by breaking them into tiny steps. Don’t overwhelm the user with complex choices.
-
 The more choices you offer, the user may take a long time to respond and lose their attention span in the process.
-
 So, reduce the complexity and the number of choices as much as possible.
 
 80/20
