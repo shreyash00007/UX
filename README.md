@@ -63,12 +63,11 @@ So, reduce the complexity and the number of choices as much as possible.
 
 80/20
 
-The 80/20 rule, also known as the Pareto Principle is a fascinating theory which claims that 20% of your effort can yield 80% of the results. This indicates that everything can be done more efficiently, we should focus most of our time on the critical areas that bring the largest benefit. This was first observed with a study showing 20% of the Italian population possessed 80% of the wealth. 
+The 80/20 rule, also known as the Pareto Principle is a fascinating theory that claims that 20% of your effort can yield 80% of the results. This indicates that everything can be done more efficiently, we should focus most of our time on the critical areas that bring the largest benefit. This was first observed with a study showing 20% of the Italian population possessed 80% of the wealth. 
 
 Law of Prägnanz
 
 Also called “Law of simplicity”, which states that users perceive complex forms in the simplest way because it is the interpretation that requires less mental effort.
-
 Basically, it describes that it is easier to understand and assimilate a square than an octagon. And it requires less mental intensity to obtain an appreciation of what that is and what it is for. A practical example of this would be the following.
 
 Serial Position Effect
