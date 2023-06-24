@@ -85,41 +85,31 @@ The principle holds that if you are handling a group of data, all the data that 
 Tesler’s Law
 
 Also known as ‘conservation of complexity’, by Larry Tesler. It establishes that for any system there is a certain complexity that can not be reduced to the maximum.
-
 Every UX designer would like to simplify processes and make them faster, but we have to take into account that there are things that cannot be simplified to be more basic. (Unless the format changes).
-
 We would find an example in any agency to buy tickets.
 
 Law of Closure
 
 Our brains tend to fill in the information and avoid contradictions as much as possible.
-
 Our eyes are naturally drawn to simpler ways to see things. When viewing a complex arrangement of visual elements, we tend to look for a single, recognizable pattern or shape.
-
 The principle of closure is often used to design logos and icons that are both memorable and recognizable. This state that you work in your memory and convert the complex object into easy ones.
-
 
 Law of Focal Point
 
 You’d be surprised at how much information can be conveyed visually in just a single second.
-
 The focal point principle states that whatever stands out visually will capture and retain the attention of viewers first. This principle is common in graphic design, where elements like contrast, color, and visual emphasis are used to draw attention to an element. The element that is highlighted than the surrounding holds the user’s attention first, like the below image you noticed the duck first.
 
 Law of Continuity
 
 Items placed in a certain row or direction are seen as a group
-
 The principle of continuity states that while elements may appear to be indescribably related, line or curve grouping often increases their relation by making them appear to be similar in terms of position and direction.
 
 Law of Similarity
+
 Similar elements of the design tend to look related, even if they are separated
-
 When elements appear to be similar to each other, we tend to group them and give them the same function.
-
 Although those elements look the same and are evenly spaced, we tend to group them by color.
-
 This example showcases how you can use buttons to create a clear and unobstructed user interface.
-
 When elements appear to be similar to each other, we tend to group them and give them the same function.
 
 Zeigarnik Effect
@@ -144,5 +134,3 @@ Von Restorff Effect
 A visually distinctive item is easily remembered when presented along with multiple similar items
 
 The Von Restorff Effect is the tendency to remember the most distinctive elements of a group. It’s called The Isolation Effect, as an object that stands out becomes more memorable to us than other items that look similar.
-
-new law
