@@ -115,7 +115,6 @@ When elements appear to be similar to each other, we tend to group them and give
 Zeigarnik Effect
 
 Adopt progress measurements in your design because users remember incomplete tasks better than completed tasks
-
 Starting a task creates task-related tension that’s felt when the job is interrupted or incomplete. All the tension from a highly repetitive task makes it difficult to complete the work itself, but that very difficulty and
 
 Tesler’s Law
@@ -126,7 +125,6 @@ Each design has a certain level of complexity to it. You are responsible for red
 Aesthetic Usability Effect
 
 The Aesthetic Usability Effect explains that people often perceive visually appealing design as more intuitive and usable than those that are considered less pleasing on the eye, people believe that things that look better, will work better. Majority of the time customers will be more tolerant of minor issues when the design is aesthetically pleasing, this is due to the positive emotional response they feel. This also correlates to the theory of the Attractiveness Bias, which shows we are drawn to beauty. This highlights how imperative a well-polished user interface is, in conjunction with a solid UX.
-
 
 Von Restorff Effect
 
