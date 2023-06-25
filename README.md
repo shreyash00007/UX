@@ -121,7 +121,6 @@ Starting a task creates task-related tension that’s felt when the job is inter
 Tesler’s Law
 
 Any system has a complexity that cannot be simplified
-
 Each design has a certain level of complexity to it. You are responsible for reducing complexity in your organization and across the entire supply chain. By removing unnecessary features or tweaking the way your app works, you can help users focus on the actual task at hand instead of figuring out how to navigate the design.
 
 Aesthetic Usability Effect
@@ -132,5 +131,4 @@ The Aesthetic Usability Effect explains that people often perceive visually appe
 Von Restorff Effect
 
 A visually distinctive item is easily remembered when presented along with multiple similar items
-
 The Von Restorff Effect is the tendency to remember the most distinctive elements of a group. It’s called The Isolation Effect, as an object that stands out becomes more memorable to us than other items that look similar.
