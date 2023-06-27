@@ -1,13 +1,13 @@
 # UX
-Its about ux 
+It's about UX 
 
 1. Aesthetic Usability Effect — Aesthetic design create a positive reaction.
 2. Doherty Threshold — Keep feedback within or less than 400 milliseconds to increase productivity.
 3. Fitts’s Law — Touch targets should be easily accessible.
 4. Hick’s Law — Choices should be simple and easy to understand.
 5. Jakob’s Law — The user expects a website to work as same as the others.
-6. Law of Common Region — Elements are perceived related if they share a common background or region.
-7. Law of Pragnanz — People tend to remember simple figures than complex shapes.
+6. Law of Common Region — Elements are perceived as related if they share a common background or region.
+7. Law of Pragnanz — People tend to remember simple figures more than complex shapes.
 8. Law of Proximity — Elements that are close to each other tend to look grouped.
 9. Law of Uniform Connectedness — Visual connection helps people to see a relation between items.
 10. Miller’s Law — Keep contents between 5 to 9 items at a time.
@@ -28,13 +28,13 @@ Its about ux
 25. Progressive Disclosure: Present information in a hierarchical manner to avoid overwhelming users with unnecessary details.
 26. Gestalt Principles: Principles of visual perception that explain how humans group and interpret visual elements.
 27. Affordance Principle: Users should be able to easily determine how to interact with an interface element.
-28. Error Prevention Principle: Design should minimize the occurrence and impact of user errors.
+28. Error Prevention Principle: The design should minimize the occurrence and impact of user errors.
 29. Golden Ratio: A mathematical ratio that is visually pleasing and often used in design compositions.
 30. Zeigarnik Effect: People remember incomplete tasks better than completed ones.
 31. Cognitive Load Principle: Reduce mental effort and cognitive load by simplifying tasks and information presentation.
 32. Doherty Threshold: A 400ms response time limit for users to feel that the system is reacting instantaneously.
 33. Delightful Experiences: Go beyond usability and aim to create delightful experiences that surprise and exceed user expectations.
-34. Cognitive Walkthrough: Simulate users' thought processes to identify potential usability issues and improve the user flow.
+34. Cognitive Walkthrough: Simulate users' thought processes to identify potential usability issues and improve user flow.
 35. Scannability: Make content scannable by using headings, bullet points, and visual cues to help users quickly find the information they need.
 36. Learnability: Design interfaces that are easy to learn and use, minimizing the learning curve for new users.
 37. Serial Position Effect: People remember the first and last items in a series more than the middle ones. Use this to highlight important information.
@@ -51,7 +51,7 @@ When computers were still relatively new, and people once dreamed of going to sp
 
 Zeigarnic Effect
 
-This happens with all of us, when we have some important task to do, and when we forget to do it, we tend to feel bad about it; this is the zeigarnik effect.
+This happens with all of us, when we have some important task to do, and when we forget to do it, we tend to feel bad about it; this is the Zeigarnik effect.
 It states that we remember uncompleted and uninterrupted tasks more than the completed task.
 
 Hick's law
