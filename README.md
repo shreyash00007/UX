@@ -124,7 +124,7 @@ Each design has a certain level of complexity to it. You are responsible for red
 
 Aesthetic Usability Effect
 
-The Aesthetic Usability Effect explains that people often perceive visually appealing design as more intuitive and usable than those that are considered less pleasing on the eye, people believe that things that look better, will work better. Majority of the time customers will be more tolerant of minor issues when the design is aesthetically pleasing, this is due to the positive emotional response they feel. This also correlates to the theory of the Attractiveness Bias, which shows we are drawn to beauty. This highlights how imperative a well-polished user interface is, in conjunction with a solid UX.
+The Aesthetic Usability Effect explains that people often perceive visually appealing designs as more intuitive and usable than those that are considered less pleasing on the eye, people believe that things that look better will work better. The majority of the time customers will be more tolerant of minor issues when the design is aesthetically pleasing, this is due to the positive emotional response they feel. This also correlates to the theory of the Attractiveness Bias, which shows we are drawn to beauty. This highlights how imperative a well-polished user interface is, in conjunction with a solid UX.
 
 Von Restorff Effect
 
