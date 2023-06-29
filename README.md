@@ -79,7 +79,7 @@ A practical example of this law would be in Instagram.
 Law of Proximity
 
 Objects that are close tend to join, and in the user experience, they are understood as members of the same group.
-The principle holds that if you are handling a group of data, all the data that we understand that correspond to the same group should be together and if we start talking about different data there should be a space (air) between them. Our head will do the rest and differentiate them.
+The principle holds that if you are handling a group of data, all the data that we understand that correspond to the same group should be together, and if we start talking about different data there should be a space (air) between them. Our head will do the rest and differentiate them.
 
 
 Tesler’s Law
@@ -92,7 +92,7 @@ Law of Closure
 
 Our brains tend to fill in the information and avoid contradictions as much as possible.
 Our eyes are naturally drawn to simpler ways to see things. When viewing a complex arrangement of visual elements, we tend to look for a single, recognizable pattern or shape.
-The principle of closure is often used to design logos and icons that are both memorable and recognizable. This state that you work in your memory and convert complex object into easy ones.
+The principle of closure is often used to design logos and icons that are both memorable and recognizable. This state that you work in your memory and convert complex objects into easy ones.
 
 Law of Focal Point
 
