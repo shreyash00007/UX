@@ -67,7 +67,7 @@ The 80/20 rule, also known as the Pareto Principle is a fascinating theory that 
 
 Law of Prägnanz
 
-Also called “Law of simplicity”, which states that users perceive complex forms in the simplest way because it is the interpretation that requires less mental effort.
+Also called the “Law of simplicity”, which states that users perceive complex forms in the simplest way because it is the interpretation that requires less mental effort.
 Basically, it describes that it is easier to understand and assimilate a square than an octagon. And it requires less mental intensity to obtain an appreciation of what that is and what it is for. A practical example of this would be the following.
 
 Serial Position Effect
@@ -92,7 +92,7 @@ Law of Closure
 
 Our brains tend to fill in the information and avoid contradictions as much as possible.
 Our eyes are naturally drawn to simpler ways to see things. When viewing a complex arrangement of visual elements, we tend to look for a single, recognizable pattern or shape.
-The principle of closure is often used to design logos and icons that are both memorable and recognizable. This state that you work in your memory and convert the complex object into easy ones.
+The principle of closure is often used to design logos and icons that are both memorable and recognizable. This state that you work in your memory and convert complex object into easy ones.
 
 Law of Focal Point
 
