@@ -97,7 +97,7 @@ The principle of closure is often used to design logos and icons that are both m
 Law of Focal Point
 
 You’d be surprised at how much information can be conveyed visually in just a single second.
-The focal point principle states that whatever stands out visually will capture and retain the attention of viewers first. This principle is common in graphic design, where elements like contrast, color, and visual emphasis are used to draw attention to an element. The element that is highlighted than the surrounding holds the user’s attention first, like the below image you noticed the duck first.
+The focal point principle states that whatever stands out visually will capture and retain viewers' attention first. This principle is common in graphic design, where elements like contrast, color, and visual emphasis are used to draw attention to an element. The element that is highlighted than the surrounding holds the user’s attention first, like the below image you noticed the duck first.
 
 Law of Continuity
 
@@ -124,7 +124,7 @@ Each design has a certain level of complexity to it. You are responsible for red
 
 Aesthetic Usability Effect
 
-The Aesthetic Usability Effect explains that people often perceive visually appealing designs as more intuitive and usable than those that are considered less pleasing on the eye, people believe that things that look better will work better. The majority of the time customers will be more tolerant of minor issues when the design is aesthetically pleasing, this is due to the positive emotional response they feel. This also correlates to the theory of the Attractiveness Bias, which shows we are drawn to beauty. This highlights how imperative a well-polished user interface is, in conjunction with a solid UX.
+The Aesthetic Usability Effect explains that people often perceive visually appealing designs as more intuitive and usable than those that are considered less pleasing to the eye, people believe that things that look better will work better. The majority of the time customers will be more tolerant of minor issues when the design is aesthetically pleasing, this is due to the positive emotional response they feel. This also correlates to the theory of the Attractiveness Bias, which shows we are drawn to beauty. This highlights how imperative a well-polished user interface is, in conjunction with a solid UX.
 
 Von Restorff Effect
 
