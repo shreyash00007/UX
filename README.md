@@ -20,7 +20,7 @@ It's about UX
 17. Tesler’s Law — Any system has a complexity that cannot be simplified.
 18. Von Restorff Effect — Visually distinctive item is easily remembered when presented along with multiple similar items.
 19. Zeignarnik Effect — Adopt progress measurements in your design because users remember incomplete tasks better than completed tasks.
-20. Law of Similarity — Similar elements of design has a tendency to look related, even if they are separated.
+20. Law of Similarity — Similar elements of design have a tendency to look related, even if they are separated.
 21. Golden Ratio: A mathematical ratio that is visually pleasing and often used in design compositions.
 22. Rule of Thirds: Divide the design space into a grid of nine equal parts to create visually balanced compositions.
 23. Feedback Principle: Provide immediate and informative feedback to user actions.
